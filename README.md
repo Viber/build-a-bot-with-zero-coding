@@ -1,4 +1,4 @@
-# Chat Bot via Google Script Without Server
+# Build a Bot with Zero Coding
 
 Most bot tutorials are for people who can code, so if you don’t have developers or staff with extra time on their hands your custom needs may not be met. Building a bot requires technical resources, such as servers to run the logic, storage to store data points and developers, well, to code. Until now. In this tutorial, we’ll show how you can build a survey bot right from a Google Sheet.
 
