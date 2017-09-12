@@ -140,7 +140,7 @@ Select the **`Set a WebHook`** operation, paste your web app URL from the previo
 Feel free to customize the code, add more question types, improve the flow or even accept pictures as valid input!
 
 ## How to report bugs
-If you find any issues with this sample, please open an [issue on GitHub](https://github.com/Viber/chat-bot-via-google-script-without-server/issues/new).
+If you find any issues with this sample, please open an [issue on GitHub](https://github.com/Viber/build-a-bot-with-zero-coding/issues/new).
 
 ## Background reading
 
