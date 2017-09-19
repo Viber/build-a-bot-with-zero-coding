@@ -383,7 +383,7 @@ function initializeGlobalParametersIfNeeded() {
   gWelcomeStartButton = parametersData[4][1];
   gEndMessage = parametersData[5][1];
   gDoNotUnderstandMessage = parametersData[6][1];
-  gShouldUseRandomColors = parametersData[7][1];
+  gShouldUseRandomColors = parametersData[7][1].toLowerCase() === 'true';
   gDefaultKeyboardColor = parametersData[8][1];
 }
 
