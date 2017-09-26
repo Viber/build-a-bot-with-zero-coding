@@ -18,7 +18,7 @@ Google Apps Script is a JavaScript-based scripting language that lets you add fu
 
 ## Prerequisites
 - Have a <a href="https://accounts.google.com/" target="_blank">Google Account</a>
-- <a href="https://developers.viber.com/docs/general/getting-started-with-bots/" target="_blank">Get your Viber Public Account authentication token</a> 
+- <a href="https://developers.viber.com" target="_blank">Get your Viber Account authentication token</a> 
 
 ## How?
 
@@ -38,7 +38,7 @@ This should give you something like this:
 
 ### 2. Under the **`parameters`** sheet, edit the following fields:
 
-- Access Token - Use the <a href="https://developers.viber.com/docs/faq/#authentication-tokens/" target="_blank">Access Token</a> which you got during the Public Account creation.
+- Access Token - Use the <a href="https://developers.viber.com/docs/faq/#authentication-tokens/" target="_blank">Access Token</a> which you got during the Account creation.
 - Bot Name - Be creative!
 - Bot Avatar URL - URL of the survey avatar. Avatar size should be no more than 100 kb. Recommended 720x720
 - Welcome to survey message - This is the welcome message which the user will receive from the survey bot
