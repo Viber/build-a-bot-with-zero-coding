@@ -24,7 +24,7 @@ Google Apps Script is a JavaScript-based scripting language that lets you add fu
 
 ### 1. Make a copy of the spreadsheet
 
->  <a href="https://docs.google.com/spreadsheets/d/187abmrkYlgoDZrYPChgQZiG2btfi98YPWrYYMF42UpQ/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/187abmrkYlgoDZrYPChgQZiG2btfi98YPWrYYMF42UpQ/edit?usp=sharing</a>
+>  <a href="https://github.com/Viber/build-a-bot-with-zero-coding/blob/master/SurveyChatBot.xlsx" target="_blank">https://github.com/Viber/build-a-bot-with-zero-coding/blob/master/SurveyChatBot.xlsx</a>
 
 In Google Sheets, Click **`File`** > **`Make a copy`**...
 
